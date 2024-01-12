@@ -31,6 +31,9 @@
 *.out
 *.app
 
-.vs
-out
-cmake-build-debug
+# 自定义
+**/.vscode
+**/.history
+**/.vs
+**/out
+**/cmake-build-debug
