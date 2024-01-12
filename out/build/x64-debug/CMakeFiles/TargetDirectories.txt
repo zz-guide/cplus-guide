@@ -1,0 +1,5 @@
+E:/zzworkspace/cplusworkspace/cplus-guide/out/build/x64-debug/CMakeFiles/edit_cache.dir
+E:/zzworkspace/cplusworkspace/cplus-guide/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+E:/zzworkspace/cplusworkspace/cplus-guide/out/build/x64-debug/foundation/CMakeFiles/foundation.dir
+E:/zzworkspace/cplusworkspace/cplus-guide/out/build/x64-debug/foundation/CMakeFiles/edit_cache.dir
+E:/zzworkspace/cplusworkspace/cplus-guide/out/build/x64-debug/foundation/CMakeFiles/rebuild_cache.dir
