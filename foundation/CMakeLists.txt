@@ -1,4 +1,4 @@
-﻿# CMakeList.txt: 顶层 CMake 项目文件，在此处执行全局配置
+# CMakeList.txt: 顶层 CMake 项目文件，在此处执行全局配置
 # 并包含子项目。
 #
 cmake_minimum_required (VERSION 3.8)
@@ -17,3 +17,4 @@ add_subdirectory ("t_int")
 add_subdirectory ("t_char")
 add_subdirectory ("t_short")
 add_subdirectory ("t_long")
+add_subdirectory ("t_class/first_identify")

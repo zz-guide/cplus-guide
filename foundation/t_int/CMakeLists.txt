@@ -1,4 +1,4 @@
-﻿add_executable (t_int "main.cpp" "main.h" )
+add_executable (t_int "main.cpp" "main.h" )
 
 if (CMAKE_VERSION VERSION_GREATER 3.12)
   set_property(TARGET t_int PROPERTY CXX_STANDARD 20)
