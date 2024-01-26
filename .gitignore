@@ -37,3 +37,5 @@
 **/.vs
 **/out
 **/cmake-build-debug
+**/bin
+**/temp
